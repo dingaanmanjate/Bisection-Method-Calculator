@@ -4,7 +4,8 @@
 using namespace std;
 
 float equation(float x) {
-    float result = pow(x, 3) + 2*x - 2; // Example equation: f(x) = x^3 + 2x - 2
+    //float result = pow(x, 3) + 2*x - 2; // Example equation: f(x) = x^3 + 2x - 2
+    float result = cos(x) - x;
     return result;
 }
 float bisection(float &a, float &b, float p) {
