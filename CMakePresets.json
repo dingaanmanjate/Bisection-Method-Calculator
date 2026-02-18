@@ -3,7 +3,7 @@
     "configurePresets": [
         {
             "name": "default",
-            "description": "default cofig for my cmake build for my Aerodynamic simulator app",
+            "description": "default config for my cmake build for my bisection method",
             "hidden": false,
             "generator": "Unix Makefiles",
             "binaryDir": "${workspaceFolder}/build",
